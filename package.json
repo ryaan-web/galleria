@@ -1,0 +1,16 @@
+{
+  "name": "galleria",
+  "version": "1.0.0",
+  "description": "this is a basic image uploader utility in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "insider",
+    "galleria"
+  ],
+  "author": "abhishek kumar",
+  "license": "ISC"
+}
